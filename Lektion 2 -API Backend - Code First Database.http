@@ -1,0 +1,6 @@
+@Lektion_2__API_Backend___Code_First_Database_HostAddress = http://localhost:5056
+
+GET {{Lektion_2__API_Backend___Code_First_Database_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
