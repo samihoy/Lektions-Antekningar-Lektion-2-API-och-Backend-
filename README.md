@@ -2,6 +2,7 @@ Lektions antekningar för Lektion 2 av API och Backend kursen
 
 Antekningarna finns längs ner under Main i Program.cs
 
+
 lektionen täker:
 
 *Hur man skappar en databas via Code First i Entity Framework
